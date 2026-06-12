@@ -1,20 +1,181 @@
 [
   {
-    "title": "Cabarete Relax",
-    "description": "Experiencia en la playa",
-    "image": "cabarete_offer_1.jfif",
-    "price": 3100,
+    "title": "Punta Cana Paradise",
+    "description": "Playas paradisíacas y resorts de lujo",
+    "destination": "Punta Cana",
+    "image": "punta_cana_offer.jpg",
+    "price": 8500,
+    "old_price": 11000,
+    "rating": 4.8,
+    "duration": "3 días / 2 noches",
+    "discount": "-23%",
+    "is_active": true,
+    "start_date": "2026-06-12T00:00:00",
+    "end_date": "2026-12-31T23:59:59"
+  },
+
+  {
+    "title": "Jarabacoa Adventure",
+    "description": "Aventura en la montaña",
+    "destination": "Jarabacoa",
+    "image": "jarabacoa_offer.jpg",
+    "price": 4500,
+    "old_price": 5600,
+    "rating": 4.7,
+    "duration": "3 días / 2 noches",
+    "discount": "-20%",
+    "is_active": true,
+    "start_date": "2026-06-12T00:00:00",
+    "end_date": "2026-12-31T23:59:59"
+  },
+
+  {
+    "title": "Isla Saona Premium",
+    "description": "Día completo",
+    "destination": "Isla Saona",
+    "image": "saona_offer.jpg",
+    "price": 3800,
+    "old_price": 5400,
+    "rating": 4.9,
+    "duration": "Día completo",
+    "discount": "-15%",
+    "is_active": true,
+    "start_date": "2026-06-12T00:00:00",
+    "end_date": "2026-12-31T23:59:59"
+  },
+
+  {
+    "title": "Samaná Experience",
+    "description": "Avistamiento de ballenas",
+    "destination": "Samaná",
+    "image": "samana_offer.jpg",
+    "price": 4200,
+    "old_price": 6500,
+    "rating": 4.8,
+    "duration": "Día completo",
+    "discount": "-15%",
+    "is_active": true,
+    "start_date": "2026-06-12T00:00:00",
+    "end_date": "2026-12-31T23:59:59"
+  },
+
+  {
+    "title": "Santo Domingo City Tour",
+    "description": "Historia y cultura",
+    "destination": "Santo Domingo",
+    "image": "sd_offer.jpg",
+    "price": 2900,
     "old_price": 3800,
     "rating": 4.6,
-    "duration": "3 días / 2 noches"
+    "duration": "Día completo",
+    "discount": "-12%",
+    "is_active": true,
+    "start_date": "2026-06-12T00:00:00",
+    "end_date": "2026-12-31T23:59:59"
   },
+
   {
-    "title": "Kitesurf Experience",
-    "description": "Aprende kitesurf",
-    "image": "cabarete_offer_2.jfif",
-    "price": 2300,
-    "old_price": 2700,
+    "title": "Bávaro All Inclusive",
+    "description": "Relájate y disfruta",
+    "destination": "Bávaro",
+    "image": "bavaro_offer.jpg",
+    "price": 9900,
+    "old_price": 13200,
+    "rating": 4.9,
+    "duration": "4 días / 3 noches",
+    "discount": "-25%",
+    "is_active": true,
+    "start_date": "2026-06-12T00:00:00",
+    "end_date": "2026-12-31T23:59:59"
+  },
+
+  {
+    "title": "Bayahibe Escape",
+    "description": "Playas y naturaleza",
+    "destination": "Bayahibe",
+    "image": "bayahibe_offer.jpg",
+    "price": 4200,
+    "old_price": 5100,
+    "rating": 4.7,
+    "duration": "2 días / 1 noche",
+    "discount": "-18%",
+    "is_active": true,
+    "start_date": "2026-06-12T00:00:00",
+    "end_date": "2026-12-31T23:59:59"
+  },
+
+  {
+    "title": "Los Haitises Tour",
+    "description": "Naturaleza y aventura",
+    "destination": "Los Haitises",
+    "image": "haitises_offer.jpg",
+    "price": 3200,
+    "old_price": 4000,
     "rating": 4.8,
-    "duration": "1 día completo"
+    "duration": "Día completo",
+    "discount": "-20%",
+    "is_active": true,
+    "start_date": "2026-06-12T00:00:00",
+    "end_date": "2026-12-31T23:59:59"
+  },
+
+  {
+    "title": "Ciudad Colonial Walk",
+    "description": "Recorrido histórico",
+    "destination": "Ciudad Colonial",
+    "image": "colonial_offer.jpg",
+    "price": 2400,
+    "old_price": 3200,
+    "rating": 4.5,
+    "duration": "Medio día",
+    "discount": "-25%",
+    "is_active": true,
+    "start_date": "2026-06-12T00:00:00",
+    "end_date": "2026-12-31T23:59:59"
+  },
+
+  {
+    "title": "Cabarete Relax",
+    "description": "Sol, playa y mar",
+    "destination": "Cabarete",
+    "image": "cabarete_offer.jpg",
+    "price": 3100,
+    "old_price": 4100,
+    "rating": 4.6,
+    "duration": "3 días / 2 noches",
+    "discount": "-18%",
+    "is_active": true,
+    "start_date": "2026-06-12T00:00:00",
+    "end_date": "2026-12-31T23:59:59"
+  },
+
+  {
+    "title": "Monte Cristi Getaway",
+    "description": "Playas vírgenes",
+    "destination": "Monte Cristi",
+    "image": "montecristi_offer.jpg",
+    "price": 4700,
+    "old_price": 6000,
+    "rating": 4.8,
+    "duration": "2 días / 1 noche",
+    "discount": "-22%",
+    "is_active": true,
+    "start_date": "2026-06-12T00:00:00",
+    "end_date": "2026-12-31T23:59:59"
+  },
+
+  {
+    "title": "Laguna Rincón",
+    "description": "Paraíso escondido",
+    "destination": "Laguna Rincón",
+    "image": "laguna_offer.jpg",
+    "price": 3600,
+    "old_price": 4600,
+    "rating": 4.7,
+    "duration": "Día completo",
+    "discount": "-22%",
+    "is_active": true,
+    "start_date": "2026-06-12T00:00:00",
+    "end_date": "2026-12-31T23:59:59"
   }
 ]
