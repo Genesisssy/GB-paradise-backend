@@ -1,7 +1,10 @@
-from sqlalchemy import Column, Integer, String, Float, Date, Text, DECIMAL
+from sqlalchemy import Column, Integer, String, Float, Text, Date
 from app.database import Base
 
 
+# =========================
+# TABLA: OFFERS
+# =========================
 class Offer(Base):
     __tablename__ = "offers"
 
@@ -9,12 +12,15 @@ class Offer(Base):
     title = Column(String(255))
     description = Column(Text)
     image = Column(String(255))
-    price = Column(DECIMAL(10,2))
-    old_price = Column(DECIMAL(10,2))
+    price = Column(Float)
+    old_price = Column(Float)
     rating = Column(Float)
     duration = Column(String(100))
 
 
+# =========================
+# TABLA: RESERVATIONS
+# =========================
 class Reservation(Base):
     __tablename__ = "reservations"
 
