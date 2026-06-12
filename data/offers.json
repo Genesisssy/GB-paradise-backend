@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Cabarete Relax",
+    "description": "Experiencia en la playa",
+    "image": "cabarete_offer_1.jfif",
+    "price": 3100,
+    "old_price": 3800,
+    "rating": 4.6,
+    "duration": "3 días / 2 noches"
+  },
+  {
+    "title": "Kitesurf Experience",
+    "description": "Aprende kitesurf",
+    "image": "cabarete_offer_2.jfif",
+    "price": 2300,
+    "old_price": 2700,
+    "rating": 4.8,
+    "duration": "1 día completo"
+  }
+]
